@@ -1,0 +1,8 @@
+### Qr Raise
+POST  http://localhost:7318/Custom/Cleaning/Branch/Order/NewOrderV2/BranOrdersSP
+Content-Type: application/json
+
+{
+    "inMobileNumber": "9676673574",
+    "UserName":"SP"
+}
