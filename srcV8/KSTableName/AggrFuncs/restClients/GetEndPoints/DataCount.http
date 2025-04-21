@@ -1,1 +1,0 @@
-GET http://localhost:7318/binV4/ANFO/AggrFuncs/Count/{inKey}/{inValue}
