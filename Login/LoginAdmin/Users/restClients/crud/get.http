@@ -1,4 +1,0 @@
-###Get for as is data
-GET http://localhost:7318/Login/LoginAdmin/Users
-
-

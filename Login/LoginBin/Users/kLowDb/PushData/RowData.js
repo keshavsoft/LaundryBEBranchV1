@@ -1,4 +1,3 @@
-import Configjson from '../../../../../binV5Secured/Config.json' assert { type: 'json' };
 import { StartFunc as StartFuncReturnDbObject } from "../CommonFuncs/ReturnDbObject.js";
 
 let StartFunc = ({ inId }) => {
